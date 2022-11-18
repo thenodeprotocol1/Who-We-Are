@@ -3,6 +3,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/thenodeprotocol1)  
 
+
+# About Us 
 The Node Protocol is based around a node token called, THENODE, with a use-case of providing endless earnings to all of its holders and governance for our entire community.
 
 Our goal is to build a comprehensive Proof of Stake earning mechanism, for all of the Web3 and ETH2.0 ecosystems. The Node Protocol is based around a node token called, 
