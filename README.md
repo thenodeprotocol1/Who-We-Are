@@ -1,5 +1,5 @@
 # Hi There 👋,
-![Hi There](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Hi There](https://github.com/thenodeprotocol1/thenodeprotocol1/blob/main/1500x500.jpg)
 
 ![Profile views](https://gpvc.arturio.dev/thenodeprotocol1)  
 
